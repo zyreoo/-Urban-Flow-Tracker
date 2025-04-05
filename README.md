@@ -8,6 +8,3 @@ Frontend: Tailwind CSS, HTML, Jinja2 templating
 
 APIs: Google Maps API (Text Search, Place Details, Directions)
 
-Other: Regex-based NLP for location parsing
-# -Urban-Flow-Tracker
-# -Urban-Flow-Tracker
